@@ -1,0 +1,14 @@
+HTML - Hyper Text ark Up Language.
+
+HTML is  the Language of the web. It is used to create websites.
+We use HTML tags to define look and feel of a website.
+
+With understaing of these tags and how to put them togethwer,we can create beautifult website easily.
+
+The Why CSS and Javascript.
+HTML is used for defining lapyout of a page - a barebackbone page structure.
+
+CSS is used to add to styling to that backbone page created using HTML.
+
+Javascript is used to program logic for the page layout e.g 
+what happens when a user hovers on a text , when to hide or show elements 
